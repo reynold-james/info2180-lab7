@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    margin-top:-5px;
+    width: 100%;
+    background-color: pink;
+    color: lightblue;
+}
+
+
+ul{
+    text-align: center;
+}
+
+#controls{
+    text-align: center;
+    border:2px solid black;
+    padding-top: 1.5px;
+    size: 50px;
+}
+
+#country{
+    margin-bottom: 15px;
+}
